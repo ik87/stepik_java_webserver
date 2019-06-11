@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/L1.1 Simple web server/L1.1.iml" filepath="$PROJECT_DIR$/L1.1 Simple web server/L1.1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/stepik_java_webserver.iml" filepath="$PROJECT_DIR$/.idea/stepik_java_webserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1_simple_web_server/L1_simple_web_server.iml" filepath="$PROJECT_DIR$/L1_simple_web_server/L1_simple_web_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2_authorization/L2_authorization.iml" filepath="$PROJECT_DIR$/L2_authorization/L2_authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stepik_web_server.iml" filepath="$PROJECT_DIR$/stepik_web_server.iml" />
     </modules>
   </component>
 </project>

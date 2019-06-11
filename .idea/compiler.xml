@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="L1.1" />
+        <module name="L1_simple_web_server" />
+        <module name="L2_authorization" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="L1.1" target="1.8" />
+      <module name="L1_simple_web_server" target="1.8" />
+      <module name="L2_authorization" target="1.8" />
+      <module name="stepik_web_server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
