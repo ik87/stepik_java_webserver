@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/L1_simple_web_server/L1_simple_web_server.iml" filepath="$PROJECT_DIR$/L1_simple_web_server/L1_simple_web_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/L2_authorization/L2_authorization.iml" filepath="$PROJECT_DIR$/L2_authorization/L2_authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3_authorization_save_into_db/L3_authorization_save_into_db.iml" filepath="$PROJECT_DIR$/L3_authorization_save_into_db/L3_authorization_save_into_db.iml" />
       <module fileurl="file://$PROJECT_DIR$/stepik_web_server.iml" filepath="$PROJECT_DIR$/stepik_web_server.iml" />
     </modules>
   </component>

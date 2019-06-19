@@ -4,8 +4,8 @@ import accounts.AccountService;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
-import servlets.SignInServlet;
-import servlets.SignUpServlet;
+import server_services.servlets.SignInServlet;
+import server_services.servlets.SignUpServlet;
 
 /**
  * Easy authorization
