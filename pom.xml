@@ -15,7 +15,8 @@
     <modules>
         <module>L1_simple_web_server</module>
         <module>L2_authorization</module>
-        <module>L3_authorization_save_into_db</module>
+        <module>L3_authorization_save_into_db_jdbc</module>
+        <module>L3.1_authorization_save_into_db_hiber</module>
     </modules>
 	
 	

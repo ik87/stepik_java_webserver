@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="L2_authorization" />
-        <module name="L3_authorization_save_into_db" />
+        <module name="L3.1_authorization_save_into_db_hiber" />
         <module name="L1_simple_web_server" />
+        <module name="L3_authorization_save_into_db_jdbc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="L1_simple_web_server" target="1.8" />
       <module name="L2_authorization" target="1.8" />
-      <module name="L3_authorization_save_into_db" target="1.8" />
+      <module name="L3.1_authorization_save_into_db_hiber" target="1.8" />
+      <module name="L3_authorization_save_into_db_jdbc" target="1.8" />
       <module name="stepik_web_server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
