@@ -17,6 +17,8 @@
         <module>L2_authorization</module>
         <module>L3_authorization_save_into_db_jdbc</module>
         <module>L3.1_authorization_save_into_db_hiber</module>
+        <module>L4_websocket</module>
+        <module>L5_jetty_job4j2_jmx</module>
     </modules>
 	
 	
@@ -64,13 +66,6 @@
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-webapp</artifactId>
             <version>9.3.0.M0</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/postgresql/postgresql -->
-        <dependency>
-            <groupId>postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>9.1-901-1.jdbc4</version>
         </dependency>
 
     </dependencies>
