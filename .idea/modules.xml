@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/L3_authorization_save_into_db_jdbc/L3_authorization_save_into_db_jdbc.iml" filepath="$PROJECT_DIR$/L3_authorization_save_into_db_jdbc/L3_authorization_save_into_db_jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/L4_websocket/L4_websocket.iml" filepath="$PROJECT_DIR$/L4_websocket/L4_websocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/L5_jetty_job4j2_jmx/L5_jetty_job4j2_jmx.iml" filepath="$PROJECT_DIR$/L5_jetty_job4j2_jmx/L5_jetty_job4j2_jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L6_jetty_job4j2_jmx_sax/L6_jetty_job4j2_jmx_sax.iml" filepath="$PROJECT_DIR$/L6_jetty_job4j2_jmx_sax/L6_jetty_job4j2_jmx_sax.iml" />
       <module fileurl="file://$PROJECT_DIR$/stepik_web_server.iml" filepath="$PROJECT_DIR$/stepik_web_server.iml" />
     </modules>
   </component>

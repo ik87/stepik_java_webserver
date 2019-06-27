@@ -19,6 +19,7 @@
         <module>L3.1_authorization_save_into_db_hiber</module>
         <module>L4_websocket</module>
         <module>L5_jetty_job4j2_jmx</module>
+        <module>L6_jetty_job4j2_jmx_sax</module>
     </modules>
 	
 	
