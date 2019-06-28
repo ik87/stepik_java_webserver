@@ -2,6 +2,9 @@ package reflection;
 
 import java.lang.reflect.Field;
 
+/**
+ * Helper reflection method, get object, and field with use names
+ */
 public class ReflectionHelper {
     public static Object createInstance(String className) {
         try {
@@ -13,7 +16,7 @@ public class ReflectionHelper {
     }
     public static void setFieldValue(Object object, String fieldName, String value) {
         try {
-         Field field = object.getClass().getField(fieldName);
+         Field field = object.getClass().getDeclaredField(fieldName);
          field.setAccessible(true);
          Types type = Types.getType(field.getType());
          switch (type) {

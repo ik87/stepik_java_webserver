@@ -17,7 +17,8 @@ import javax.management.ObjectName;
 import java.lang.management.ManagementFactory;
 
 /**
- * Easy test JMX controller through jconsole
+ * Get instance through xml with use reflection and sax
+ * Check result with use JMX (jconsole)
  * @author Kosolapov Ilya (d_dexter@mail.ru)
  * @version 0.1
  */
