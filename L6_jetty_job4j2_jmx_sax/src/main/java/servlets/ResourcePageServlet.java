@@ -21,7 +21,13 @@ public class ResourcePageServlet extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String path = req.getParameter("path");
         TestResource testResource = (TestResource) ReadXMLFileSAX.readXML(path);
-        resourceServer.setTestResource(testResource);
-        resp.setStatus(HttpServletResponse.SC_OK);
+        if(testResource != null) {
+            resourceServer.setTestResource(testResource);
+            resp.setStatus(HttpServletResponse.SC_OK);
+        } else {
+            resp.setStatus(HttpServletResponse.SC_BAD_REQUEST);
+        }
+
+
     }
 }
