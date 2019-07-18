@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="L6_jetty_job4j2_jmx_sax" />
         <module name="L2_authorization" />
+        <module name="L6_jetty_job4j2_jmx_sax" />
         <module name="L3_authorization_save_into_db_jdbc" />
         <module name="L5_jetty_job4j2_jmx" />
         <module name="L1_simple_web_server" />
+        <module name="vfs" />
         <module name="L3.1_authorization_save_into_db_hiber" />
         <module name="L4_websocket" />
       </profile>
@@ -24,6 +25,7 @@
       <module name="L5_jetty_job4j2_jmx" target="1.8" />
       <module name="L6_jetty_job4j2_jmx_sax" target="1.8" />
       <module name="stepik_web_server" target="1.8" />
+      <module name="vfs" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -4,3 +4,6 @@ No data is available [2000-187]
 06-22 16:21:22 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLException: Нет данных
 No data is available [2000-187]
+07-17 11:13:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Нет данных
+No data is available [2000-187]

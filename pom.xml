@@ -20,6 +20,7 @@
         <module>L4_websocket</module>
         <module>L5_jetty_job4j2_jmx</module>
         <module>L6_jetty_job4j2_jmx_sax</module>
+        <module>vfs</module>
     </modules>
 	
 	

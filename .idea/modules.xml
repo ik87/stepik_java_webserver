@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/L5_jetty_job4j2_jmx/L5_jetty_job4j2_jmx.iml" filepath="$PROJECT_DIR$/L5_jetty_job4j2_jmx/L5_jetty_job4j2_jmx.iml" />
       <module fileurl="file://$PROJECT_DIR$/L6_jetty_job4j2_jmx_sax/L6_jetty_job4j2_jmx_sax.iml" filepath="$PROJECT_DIR$/L6_jetty_job4j2_jmx_sax/L6_jetty_job4j2_jmx_sax.iml" />
       <module fileurl="file://$PROJECT_DIR$/stepik_web_server.iml" filepath="$PROJECT_DIR$/stepik_web_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vfs/vfs.iml" filepath="$PROJECT_DIR$/vfs/vfs.iml" />
     </modules>
   </component>
 </project>
