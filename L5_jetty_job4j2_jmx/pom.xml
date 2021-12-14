@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <properties>
-        <org.apache.logging.log4j.version>2.2</org.apache.logging.log4j.version>
+        <org.apache.logging.log4j.version>2.16.0</org.apache.logging.log4j.version>
         <junit.version>4.11</junit.version>
         <org.mockito.version>1.8.4</org.mockito.version>
     </properties>
